@@ -1,19 +1,19 @@
-### HLDS Server for Counter-Strike 1.6
+## HLDS Server for Counter-Strike 1.6
 HLDS Build ```7882``` [24-06-2018]  
 Metamod ```v1.21.1-am``` & DProto ```0.9.582```
 
 ---
 
-### Downloading
+## Downloading
 ```
 wget https://github.com/codeowais/hlds-cstrike/releases/
 ```
 
 ---
 
-### Installation (Debian-based)
+## Installation (Debian-based)
 
-#### Automated install
+### Automated install
 ```
 wget https://github.com/codeowais/hlds-cstrike/releases/
 sudo chmod +x install-hlds.sh
@@ -23,7 +23,7 @@ All server binaries will be located in the ```hlds\``` directory
 
 ---
 
-#### Manual install
+### Manual install
 
 Add the 32-bit architecture (only for 64-bit OSes)
 ```
