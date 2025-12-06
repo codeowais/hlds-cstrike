@@ -6,7 +6,7 @@ Metamod ```v1.21.1-am``` & DProto ```0.9.582```
 
 ## Downloading
 ```
-wget https://github.com/codeowais/hlds-cstrike/releases/
+wget https://github.com/codeowais/hlds-cstrike/releases/download/7882/hlds-backup-2025-12-06.tar.gz
 ```
 
 ---
@@ -15,7 +15,7 @@ wget https://github.com/codeowais/hlds-cstrike/releases/
 
 ### Automated install
 ```
-wget https://github.com/codeowais/hlds-cstrike/releases/
+wget https://github.com/codeowais/hlds-cstrike/releases/download/7882/install-hlds.sh
 sudo chmod +x install-hlds.sh
 ./install-hlds.sh
 ```
