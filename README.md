@@ -29,7 +29,7 @@ All server binaries will be located in the ```hlds\``` directory
 
 Add the 32-bit architecture (only for 64-bit OSes)
 ```
-sudo dpkg --add-architecutre i386
+sudo dpkg --add-architecture i386
 ```
 
 Install the HLDS dependencies
